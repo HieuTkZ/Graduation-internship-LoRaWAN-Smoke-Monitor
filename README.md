@@ -114,9 +114,9 @@ Hệ thống sẽ thu thập giá trị cảm biến, xử lý và gửi mức �
 
 ## Phân chia công việc
 
-### Member 1 - Hardware Analysis
+### Phần 1 - Hardware Analysis
 
-Phụ trách:
+Công việc:
 
 - Phân tích cấu tạo thiết bị.
 - Xác định linh kiện trên PCB.
@@ -125,9 +125,9 @@ Phụ trách:
 - Phân tích nguồn và các tín hiệu vào/ra.
 - Reverse engineering các phần cần thiết.
 
-### Member 2 - Firmware & LoRaWAN
+### Phần 2 - Firmware & LoRaWAN
 
-Phụ trách:
+Công việc:
 
 - Nghiên cứu giao thức LoRaWAN.
 - Phân tích module LoRa trên thiết bị.
@@ -137,9 +137,9 @@ Phụ trách:
 - Xây dựng firmware xử lý và truyền dữ liệu.
 - Kết nối Gateway và LoRaWAN Server.
 
-### Member 3 - Smoke Measurement & Testing
+### Phần 3 - Smoke Measurement & Testing
 
-Phụ trách:
+Công việc:
 
 - Nghiên cứu phương pháp đo mức độ/nồng độ khói.
 - Khảo sát tín hiệu từ cảm biến hiện tại.
@@ -335,15 +335,6 @@ Sau khi hoàn thành, hệ thống dự kiến có khả năng:
 
 ---
 
-## Thành viên
-
-| Thành viên | Phụ trách |
-|------------|-----------|
-| Member 1 | Hardware & Reverse Engineering |
-| Member 2 | Firmware & LoRaWAN |
-| Member 3 | Smoke Measurement & Testing |
-
----
 
 ## Tài liệu tham khảo
 
